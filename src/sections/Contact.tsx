@@ -8,7 +8,7 @@ export const Contact = () => {
       <div className="container relative">
         <div className="section-heading relative">
           <h2 className="text-center text-3xl md:text-[55px] md:leading-[60px] font-bold tracking-tighter bg-gradient-to-b from-black to-[#7518c2] text-transparent bg-clip-text">Contact the podcast host now.</h2>
-          <p className="section-des mt-5">If you want to talk to the podcast host or ask him direct questions or try to find out some inquiries, here are all the social media accounts</p>
+          <p className="section-des mt-5">Below is the chamber where we receive complaints, insights and even criticism. But beware! There's a three-headed dog garding the chamber's door </p>
           <Image src={Conversation} alt="conversation image" width={360} className='absolute -left-[350px] -top-[137px]' />
           <Image src={Message} alt='message image' width={360} className='absolute -right-[331px] -top-[19px]' />
         </div>
