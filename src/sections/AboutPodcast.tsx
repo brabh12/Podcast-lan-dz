@@ -21,7 +21,7 @@ export const AboutPodcast = () => {
             <div className='info'>About : Learn more about the podcast</div>
           </div>
           <h2 className='text-center text-3xl md:text-[55px] md:leading-[60px] font-bold tracking-tighter bg-gradient-to-b from-black to-[#7518c2] text-transparent bg-clip-text mt-5'>A more effective way to track progress</h2>
-          <p className='text-center text-[22px] leading-[30px] tracking-tight text-[#34012f] mt-5'>This podcast is hosted by Ms. Latifa Grims, an English language teacher. This podcast covers very useful topics in an entertaining way and also hosts some guests on the podcast.</p>
+          <p className='text-center text-[22px] leading-[30px] tracking-tight text-[#34012f] mt-5'>The podcast at ear is a space where the host magically blends an enthusiasm for teaching and football. Get your earphones fully charged cuz there's no way on earth you would get such a blend. In here, she speaks everything Academia, pedagogy and linguistics! But how the hell is it related to football again? Well listen to one of her episodes to find out</p>
         </div>
         <div className='relative'>
           <Image src={productImage} alt="Podcast Image" className='mt-9' />
